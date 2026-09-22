@@ -176,6 +176,7 @@ This day focuses on learning how to migrate applications to AWS cloud. What are 
 ## Day 28: AWS Cloud Migration Strategies and Tools
 
 This day focuses on learning how to migrate applications to AWS cloud. What are the most popular strategies and tools used to achieve the cloud migration.
+##neew things
 
 ## Day 29: AWS Best Practices and Job Preparation
 
